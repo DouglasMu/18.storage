@@ -22,7 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/ButtonWrite"
-        android:text="写入信息"
+        android:text="@string/input"
         android:layout_marginTop="40dp"
         android:layout_below="@+id/str"
         android:layout_alignStart="@+id/ButtonRead" />
@@ -30,7 +30,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/ButtonRead"
-        android:text="读取信息"
+        android:text="@string/output"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>

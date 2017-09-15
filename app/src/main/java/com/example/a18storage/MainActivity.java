@@ -20,7 +20,6 @@ import java.nio.charset.StandardCharsets;
 
 public class MainActivity extends AppCompatActivity {
 
-    //文件名
     private final static String MyFileName="myfile";
 
 
